@@ -256,6 +256,7 @@ Deliver content to end-users with low latency and high transfer speeds.
 ### 📝 Core Idea:
 Reliable and cost-effective way to route end users to internet applications.
 
+
 ## 🔹 23.  AWS CloudFormation
 ### ⚙️ Key Features:
 - **Infrastructure as Code (IaC):** Model and provision AWS resources using template files (JSON or YAML).
