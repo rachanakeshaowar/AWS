@@ -10,6 +10,8 @@ Securely control access to AWS services and resources. Principle of Least Privil
 ### 🔄 Difference:
 - **User vs. Role:** Users have permanent credentials. Roles have temporary credentials and are assumed. Roles are preferred for applications and services needing AWS access.
 
+
+
 ## 🔹 2.  Amazon S3 (Simple Storage Service)
 ### ⚙️ Key Features:
 - **Objects:** Data is stored as objects (files) within buckets.
