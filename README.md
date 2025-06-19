@@ -43,6 +43,8 @@ Overcome network limitations for large-scale data transfers.
     - **Direct Connect:** Dedicated private network connection for consistent, high-bandwidth needs.
     - **S3 Transfer Acceleration:** Speeds up S3 uploads/downloads over public internet using CloudFront's edge network.
 
+
+
 ## 🔹 4.  AWS Lambda
 ### ⚙️ Key Features:
 - **Serverless Compute:** Run code without provisioning or managing servers.
