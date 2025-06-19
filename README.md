@@ -75,6 +75,8 @@ Provides flexible and scalable virtual servers.
 ### 🔄 Difference:
 (Covered under S3 and Lambda)
 
+
+
 ## 🔹 6.  AWS CAF (Cloud Adoption Framework)
 ### ⚙️ Key Features:
 - **Guidance & Best Practices:** Helps organizations plan and execute their cloud adoption journey.
