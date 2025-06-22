@@ -100,6 +100,8 @@ Provides flexible and scalable virtual servers.
 ### 📝 Core Idea:
 A framework to help organizations develop an efficient and effective plan for their cloud adoption journey.
 
+
+
 ##  🔹7.  AWS Well-Architected Framework: Six Pillars
 ### ⚙️ Key Features:
 - **Framework for Reviewing Architectures:** Helps cloud architects build secure, high-performing, resilient, and efficient infrastructure.
