@@ -62,6 +62,9 @@ Run code on demand without server management.
 ### 🔄 Difference:
 - **Lambda vs. EC2:** Lambda is for short-running, event-driven functions. EC2 is for traditional applications requiring persistent servers and OS control.
 
+
+
+
 ## 🔹 5.  Amazon EC2 (Elastic Compute Cloud)
 ### ⚙️ Key Features:
 - **Virtual Servers (Instances):** Resizable compute capacity in the cloud.
