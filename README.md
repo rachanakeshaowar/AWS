@@ -115,6 +115,7 @@ A framework to help organizations develop an efficient and effective plan for th
 ### 📝 Core Idea:
 A set of principles and best practices to design and operate reliable, secure, efficient, cost-effective, and sustainable systems in the cloud.
 
+
 ## 🔹 8.  Load Balancer (Elastic Load Balancing - ELB)
 ### ⚙️ Key Features:
 - **Distributes Traffic:** Automatically distributes incoming application traffic across multiple targets (e.g., EC2 instances, containers, IP addresses).
