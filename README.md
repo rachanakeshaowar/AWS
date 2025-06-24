@@ -17,6 +17,10 @@ Securely control access to AWS services and resources. Principle of Least Privil
 
 
 
+
+
+
+
 ## 🔹 2.  Amazon S3 (Simple Storage Service)
 ### ⚙️ Key Features:
 - **Objects:** Data is stored as objects (files) within buckets.
